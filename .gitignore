@@ -1,0 +1,16 @@
+results
+results_dry_run
+results_fix_test
+results_personalized
+results_personalized_
+__pycache__
+dry_run_data
+dry_run_output
+dataset/google.pkl
+dataset/qualcomm.pkl
+checkpoints/
+speaker
+diagnosis/
+phon/
+results.tar.gz
+figures/
